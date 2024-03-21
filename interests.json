@@ -1,0 +1,22 @@
+{
+    "Alice Johnson": {
+        "looking_for": "job opportunities in artificial intelligence and robotics, connecting with like-minded individuals in AI and robotics",
+        "can_give": "knowledge in AI and robotics, participation in collaborative projects"
+    },
+    "Raj Patel": {
+        "looking_for": "a co-founder for a green tech initiative in renewable energy engineering",
+        "can_give": "expertise in renewable energy engineering, a passion for sustainable technologies"
+    },
+    "Emily Zhang": {
+        "looking_for": "promising startups in tech and healthcare sectors for investment",
+        "can_give": "investment in tech and healthcare startups, financial and business growth support"
+    },
+    "FinFuture": {
+        "looking_for": "employees with expertise in AI, ML, and finance, investment to scale operations",
+        "can_give": "innovations in FinTech, AI-driven personal banking solutions"
+    },
+    "AutoInnovate": {
+        "looking_for": "employees skilled in robotics, AI, and software engineering for autonomous driving solutions",
+        "can_give": "leadership in electric vehicles and autonomous driving technology"
+    }
+}
